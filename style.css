@@ -131,7 +131,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-top: 100px;
-  gap: 80px;
+  gap: 100px;
 }
 .footer img {
   width: 100px;
@@ -158,11 +158,12 @@ body {
   gap: 20px;
 }
 .footer1{
-  width: 200%;
+  width: 100%;
 }
 .footer2{
-  width: 190%;
+  width: 90%;
+  padding-left: 80px;
 }
 .footer3{
-  width: 190%;
+  width: 100%;
 }
